@@ -85,10 +85,12 @@ s.send("acknowledgement recived from the server".encode())
 ## Output
 
 ### Client
-![alt text](<Screenshot 2024-08-21 153125.png>)
+![image](https://github.com/user-attachments/assets/c5acceb7-2f67-4701-ac26-b4f46764fe90)
+
 
 ### Server
-![alt text](<Screenshot 2024-08-21 153206.png>)
+![image](https://github.com/user-attachments/assets/70057d0d-1e27-4d39-8a8e-74cdeda356d0)
+
 
 
 ## Result:
